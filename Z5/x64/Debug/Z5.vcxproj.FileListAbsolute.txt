@@ -1,0 +1,3 @@
+C:\Users\dam24\source\repos\-\Z5\x64\Debug\Z5.vcxproj.AssemblyReference.cache
+C:\Users\dam24\source\repos\-\Z5\x64\Debug\Z5.MyForm.resources
+C:\Users\dam24\source\repos\-\Z5\x64\Debug\Z5.vcxproj.GenerateResource.cache

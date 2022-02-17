@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\dam24\source\repos\-\Z5\MyForm.h(386,34): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\dam24\source\repos\-\Z5\MyForm.h(434,34): warning C4101: ex: неиспользованная локальная переменная
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Z5.vcxproj -> C:\Users\dam24\source\repos\-\x64\Debug\Z5.exe
